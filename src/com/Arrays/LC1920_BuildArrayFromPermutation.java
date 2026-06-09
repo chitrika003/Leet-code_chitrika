@@ -1,8 +1,8 @@
-package com.implementation;
+package com.Arrays;
 
 import java.util.Arrays;
 
-public class PermutationArray {
+public class LC1920_BuildArrayFromPermutation {
     static public int[] permutatedArray(int[]num){
         int[] ans = new int[num.length];
         int j=0;

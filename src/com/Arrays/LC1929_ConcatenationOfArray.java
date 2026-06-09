@@ -1,8 +1,8 @@
-package com.implementation;
+package com.Arrays;
 
 import java.util.Arrays;
 
-public class ConcatinationofArray {
+public class LC1929_ConcatenationOfArray {
 
     public  static int[] concatination(int[] nums){
         //int j=0;
