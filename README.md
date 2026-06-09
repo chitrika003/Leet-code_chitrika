@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems implemented in Java. 
 ## Topics Covered
 
 * Arrays
+  
 ## Topics Planned
 * Strings
 * Searching
@@ -56,7 +57,7 @@ src/
 
 ## Progress
 
-* Total Problems Solved: 2+
+* Total Problems Solved: 3
 * Language: Java
 * Difficulty Levels: Easy → Medium → Hard
 
