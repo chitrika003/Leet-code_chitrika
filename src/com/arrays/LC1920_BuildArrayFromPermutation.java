@@ -17,7 +17,7 @@ public class LC1920_BuildArrayFromPermutation {
         return ans;
     }
 
-    public  static void main() {
+    public  static void main(String[] args) {
   int[] num={0,2,1,5,3,4};
         System.out.println(Arrays.toString(permutatedArray(num)));
     }
